@@ -13,9 +13,6 @@
 - **Databases:** MySQL, MongoDB  
 - **Other Tools:** Git, GitHub, Docker  
 
-### 📊 GitHub Stats  
-![Anirudh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anirudhsrii&show_icons=true&theme=radical)  
-
 ### 📫 Connect with Me  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/anirudhsrii)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/anirudh-srivastava-0b28b4251/)  
