@@ -11,7 +11,7 @@
 - **Frontend:** HTML, CSS, React.js, Next.js  
 - **Backend:** Node.js, Express.js  
 - **Databases:** MySQL, MongoDB  
-- **Other Tools:** Git, GitHub, Docker  
+- **Other Tools:** Git, GitHub
 
 ### 📫 Connect with Me  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/anirudhsrii)  
