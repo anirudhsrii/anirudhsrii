@@ -16,5 +16,6 @@
 ### 📫 Connect with Me  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/anirudhsrii)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/anirudh-srivastava-0b28b4251/)  
+[![LinkedIn](https://img.shields.io/badge/Instagram-Connect-red?logo=instagram)](https://www.instagram.com/_anirudh__srivastava_/?hl=en)  
 
 🚀 Always open to learning and collaborating on exciting projects!  
