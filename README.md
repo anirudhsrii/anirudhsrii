@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Anirudh Srivastava!
 
 ### 🚀 About Me
-- 🎓 Pursuing **Computer Science and Engineering** at **VIT Bhopal University**  
+- 🎓 Pursuing **Computer Science and Engineering** at **VIT BHOPAL**  
 - 💡 Passionate about **Machine Learning** and **Functional Web Development**  
 - 💻 Skilled in **C++, Java, Python**  
 - 🌐 Experienced in **HTML, CSS, JavaScript, React, Next.js, Node.js**  
