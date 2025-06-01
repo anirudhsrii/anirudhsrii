@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Anirudh Srivastava
+# 👋 Anirudh Srivastava
 
 ### 🚀 About Me
 - 🎓 Pursuing **Computer Science and Engineering** at **VIT BHOPAL**  
