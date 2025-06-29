@@ -9,7 +9,7 @@
 ### 🔥 Tech Stack
 - **Languages:** C++, Java, Python, JavaScript  
 - **Frontend:** HTML, CSS, React.js, Next.js  
-- **Backend:** Node.js, Express.js  
+- **Backend:** Node.js
 - **Databases:** MySQL, MongoDB  
 - **Other Tools:** Git, GitHub
 
