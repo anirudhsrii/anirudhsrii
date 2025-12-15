@@ -4,7 +4,7 @@
 - 🎓 Pursuing **Computer Science and Engineering** at **VIT BHOPAL**  
 - 💡 Passionate about **Machine Learning** and **Functional Web Development**  
 - 💻 Skilled in **C++, Python**  
-- 🌐 Experienced in **HTML, CSS, JavaScript, React, Next.js, Node.js**  
+- 🌐 Experienced in **FULL-STACK DEVELOPMENT WITH MERN(MONGODB,EXPRESS.JS,REACT.JS,NODE.JS), HTML,CSS,JAVASCRIPT.**  
 
 ### 🔥 Tech Stack
 - **Languages:** C++, Java, Python, JavaScript  
