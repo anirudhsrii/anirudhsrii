@@ -1,10 +1,10 @@
 # 👋 Anirudh Srivastava
 
 ### 🚀 About Me
-- 🎓 Pursuing **Computer Science and Engineering** at **VIT BHOPAL**  
+- 🎓 Pursuing **Computer Science and Engineering** at **Vellore Institute of Technology**  
 - 💡 Passionate about **Machine Learning** and **Functional Web Development**  
-- 💻 Skilled in **C++, Python**  
-- 🌐 Experienced in **FULL-STACK DEVELOPMENT WITH MERN(MONGODB,EXPRESS.JS,REACT.JS,NODE.JS), HTML,CSS,JAVASCRIPT.**  
+- 💻 Skilled in **C++, Python, Java, HTML, CSS, JAVASCRIPT.**  
+- 🌐 Experienced in **FULL-STACK DEVELOPMENT WITH MERN(MONGODB,EXPRESS.JS,REACT.JS,NODE.JS).**  
 
 ### 🔥 Tech Stack
 - **Languages:** C++, Java, Python, JavaScript  
